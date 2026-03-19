@@ -55,5 +55,3 @@ npm run dev
 Then, load the `dist/` folder as an unpacked extension (it will update automatically as you save files).
 
 ---
-
-Built with ❤️ for developers by developers.
